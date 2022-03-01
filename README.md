@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Muqtar
-- 👀 I’m interested in becoming a Software Engineering
+- 👀 I’m interested in becoming a Software Engineer
 - 🌱 I’m currently learning Javascript & python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ Muktaryare94@gmail.com
 
 <!---
